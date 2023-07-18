@@ -8,7 +8,9 @@ This bot has been featured in
 - SkyStats Discord
 - SkyStats Account Shop
 - Hyperbolic
+- BetBoost Nitro Shop
 - And more!
+  
 
 # Requirements
 
