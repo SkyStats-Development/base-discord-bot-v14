@@ -43,9 +43,9 @@ This bot has been featured in
 - [DuckySoLucky](https://github.com/DuckySoLucky) for their [original template](https://github.com/DuckySoLucky/discord-bot-blueprint-v14) (it was missing multiple things)
 - a few others
 
-# Licence
+# License
 
-Licence is viewable in the licence file
+license is viewable in the license file
 
 # Version
 
