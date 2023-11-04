@@ -2,21 +2,19 @@
 
 ### This template can be used free of charge to any developer looking to make a bot. Though, it is designed for our systems!
 
-
-This bot has been featured in 
+This bot has been featured in
 
 - SkyStats Discord
-- SkyStats Account Shop
 - Hyperbolic
+- Cardboard
 - BetBoost Nitro Shop
 - And more!
-  
 
 # Requirements
 
 - [pnpm](https://pnpm.io) installed `npm i pnpm -g`
 - [pm2](https://pm2.keymetrics.io) installed `npm i pm2 -g`
-- [node.js](https://nodejs.org/en) v20 with npm (windows, mac and linux tested) 
+- [node.js](https://nodejs.org/en) v20 with npm (windows, mac and linux tested)
 
 # Installing
 
@@ -37,8 +35,8 @@ This bot has been featured in
 
   - `npm run build` to build the dependencies (you can also use `pnpm i`)
   - `npm run dev` or `npm run start` to start the bot!
-  - to debug simply type `node indexDEV.js`
-  - if everything works go to config.json and edit it to your liking!
+  - to debug simply type node ``./start/developer_start.js``
+  - if everything works, have fun!
 
 # Credits
 
@@ -47,8 +45,8 @@ This bot has been featured in
 
 # Licence
 
-viewable in the LICENSE file, this LICENSE protects all work under skystats development 
+Licence is viewable in the licence file
 
 # Version
 
-- 2.0.1 (LTS)
+- 3.0.4
