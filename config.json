@@ -1,7 +1,11 @@
 {
   "discord": {
-    "token": "TOKEN",
-    "clientID": "clientID",
-    "serverID": "serverID"
+    
+  },
+  "system": {
+
+  },
+  "api": {
+
   }
 }
