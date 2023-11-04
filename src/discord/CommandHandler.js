@@ -1,10 +1,9 @@
 const { Routes } = require("discord-api-types/v9");
-const config = require("../../config.json");
 const { REST } = require("@discordjs/rest");
 const fs = require("fs");
 require("dotenv").config();
-const token = process.env.TOKEN;
-const clientID = process.env.ID;
+var token = process.env.TOKEN;
+var clientID = process.env.ID;
 
 class CommandHandler {
   constructor(discord) {
