@@ -16,8 +16,8 @@
     "url": "https://github.com/SkyStats-Development/base-discord-bot-v14/issues"
   },
   "homepage": "https://github.com/SkyStats-Development/base-discord-bot-v14#readme",
-  "author": "SkyStats Development ",
-  "license": "CUSTOM",
+  "author": "SkyStats Development, Axle",
+  "license": "MIT",
   "dependencies": {
     "@discordjs/builders": "^1.6.5",
     "@discordjs/rest": "^2.0.1",

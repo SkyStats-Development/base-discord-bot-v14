@@ -6,7 +6,7 @@ process.env.ID = process.env.PRODID;
 process.on("uncaughtException", function (err) {
   console.log(err);
 });
-const app = require("./src/Application");
+const app = require("../src/Application");
 app
   .register()
   .then(() => {

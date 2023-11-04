@@ -1,8 +1,10 @@
+
+
 module.exports = {
   apps: [
     {
-      name: "PRODUCT",
-      script: "index.js",
+      name: "templateProduction",
+      script: "./start/production_start.js",
       instances: 1,
       autorestart: true,
       watch: true,
@@ -15,8 +17,8 @@ module.exports = {
       },
     },
     {
-      name: "DEV",
-      script: "indexDEV.js",
+      name: "templateDevelopment",
+      script: "./start/developer_start.js",
       instances: 1,
       autorestart: true,
       watch: true,
