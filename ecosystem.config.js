@@ -18,7 +18,7 @@ module.exports = {
     },
     {
       name: "templateDevelopment",
-      script: "./start/developer_start.js",
+      script: "./start/development_start.js",
       instances: 1,
       autorestart: true,
       watch: true,
